@@ -38,4 +38,4 @@ complete <- function(directory, id = 1:332) {
 }
 ```
 
-You can see some example output from this function. The function that you write should be able to match this output. Please save your code to a file named complete.R. To run the submit script for this part, make sure your working directory has the file complete.R in it.
+You can see some [example output](https://d396qusza40orc.cloudfront.net/rprog%2Fdoc%2Fcomplete-demo.html) from this function. The function that you write should be able to match this output. Please save your code to a file named complete.R. To run the submit script for this part, make sure your working directory has the file complete.R in it.
